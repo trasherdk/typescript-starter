@@ -5,7 +5,7 @@
 ## Usage
 
 ```shell
-npx degit danawoodman/typescript-base my-project-name
+npx degit trasherdk/typescript-starter my-project-name
 cd my-project-name
 npm i
 ```
@@ -19,3 +19,7 @@ MIT
 ## Copyright
 
 &copy; [Dana Woodman](mailto:dana@danawoodman.com) 2020
+
+## Forked
+
+Forked from Dana Woodman's [typescript-base](https://github.com/danawoodman/typescript-base)
